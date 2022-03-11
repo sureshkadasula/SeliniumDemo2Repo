@@ -14,7 +14,7 @@ public class ParameterisationClassLevel {
 	@Test
 	public void Amazon(String url) {
 
-		System.out.println("Amazon");
+		System.out.println("Ama");
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
