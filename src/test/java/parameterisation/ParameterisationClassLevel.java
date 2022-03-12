@@ -37,6 +37,7 @@ public class ParameterisationClassLevel {
 	@Test
 	public void Myntra() {
 		System.out.println("Myntra");
+		System.out.println("Myntra");
 	}
 
 	@Test
